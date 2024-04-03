@@ -1,0 +1,7 @@
+/** @format */
+
+.filters {
+	padding: 16px 0px;
+	display: flex;
+	flex-wrap: wrap;
+}
